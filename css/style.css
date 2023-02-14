@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:ital@0;1&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+header{
+    background-color: blueviolet;
+    height: 100px;
+
+}
+h1, p, a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul li{
+    display: inline-block;
+
+} 
+
+h1{
+    color:black;
+    padding:40px;
+    border: 20px solid salmon;
+    margin: 80px 40px 80px 40px;
+}
+
+p{
+    color:black;
+    padding:40px;
+    margin-right: 400px ;
+    margin-top:60px;
+    margin-left:60px;
+    border: 10px solid blue;
+
+}
+
+.border-radius{
+    border-radius: 50%;
+    color:crimson;
+}
+
+img{
+    margin: 80px 200px;
+    border: 10px double blue;
+    border-radius: 15%;
+    
+
+} 
+
+
+
+.icono{
+    border:none;
+}
+
+footer{
+    margin-top: 60px;
+    padding:80px;
+    background-color: blueviolet;
+}
+
+
+
